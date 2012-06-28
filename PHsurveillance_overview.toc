@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Background}{1}{section.1}
+\contentsline {section}{\numberline {2}R codes}{2}{section.2}
+\contentsline {section}{\numberline {3}Download example data}{2}{section.3}
+\contentsline {section}{\numberline {4}Load and clean}{2}{section.4}
+\contentsline {section}{\numberline {5}Do geocoding}{2}{section.5}
+\contentsline {section}{\numberline {6}Check outputs}{2}{section.6}
+\contentsline {section}{\numberline {7}Find a specific offender}{2}{section.7}
+\contentsline {section}{\numberline {8}Put somebody on the map}{3}{section.8}
+\contentsline {section}{\numberline {9}Write the final(ish) data}{4}{section.9}
+\contentsline {section}{\numberline {10}Next steps}{4}{section.10}
+\contentsline {section}{\numberline {11}References}{4}{section.11}
