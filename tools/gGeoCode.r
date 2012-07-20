@@ -1,4 +1,4 @@
-
+# gGeoCode.r
 # Ezgraphs. GoogleGeocodeMap.R, 2010. https://github.com/ezgraphs/R-Programs/blob/master/GoogleGeocodeMap.R.
 # also see suggested improvements at
 # http://stackoverflow.com/questions/3257441/geocoding-in-r-with-google-maps

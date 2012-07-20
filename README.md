@@ -1,6 +1,9 @@
 Geocoding Tools for Public Health.
 -------
 
+* TODO check the geocode and revgeocode functions from package ggmap.
+
+* Background
 This was developed as a presentation to the NCEPH Public Health Surveillance short course in March 2012.
 
 It is currently just a reproducible research report, faithfully following the online tutorial [1,2] using google maps [3].
@@ -19,5 +22,9 @@ http://www.franklincenterhq.org/2541/geocoding-addresses-from-missouri-sex-offen
 
 [3] Google. Google Geocoding API, http://code.google.com/apis/maps/documentation/geocoding/index.html.
 
-[4] Hanigan, IC. 2012. Geocoding Tools For Public Health [Computer Software]. 
+[4] gGeoCode.r comes from Ezgraphs. GoogleGeocodeMap.R, 2010. https://github.com/ezgraphs/R-Programs/blob/master/GoogleGeocodeMap.R. Also see suggested improvements at http://stackoverflow.com/questions/3257441/geocoding-in-r-with-google-maps
+
+[5] get.geocode.r is modified from Glynn's original to include a clerical review step for results that google returns more than one hit (implemented in the trustFirstResult argument).
+
+This project can be cited as Hanigan, IC. 2012. Geocoding Tools For Public Health [Computer Software]. 
 https://github.com/ivanhanigan/GeocodingToolsForPublicHealth
